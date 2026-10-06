@@ -1,23 +1,20 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ulises47123/Recursos-H-dricos/gh-pages/logo.png" width="80" alt="Logo" />
-</p>
+<div align="center">
+  <img src="logo.png" width="150" alt="Logo DPRH">
+  
+  # Dirección Provincial de Recursos Hídricos
+  ### Gobierno de la Provincia de Jujuy
 
-<br>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vcenter=true&width=500&lines=Bienvenido+al+Sistema+DPRH;Gestion+de+Personal+y+Licencias;Acceso+Remoto+Seguro+Cloudflare)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=FFFFFF&background=333641&center=true&vCenter=true&width=500&height=200&lines=Bienvenido" alt="Bienvenido" />
-  </a>
-</p>
+  [![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-Acceder_al_Sistema-007ACC?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cemetery-honor-anime-ventures.trycloudflare.com)
 
-<hr>
+  ---
 
-<p align="center">
-  <a href="https://arts-provided-amy-combo.trycloudflare.com">
-    <img src="https://img.shields.io/badge/Ver_Proyecto-2ea44f?style=for-the-badge" alt="Ver Proyecto" />
-  </a>
-</p>
+  ### 🌐 Portal Oficial de Acceso Remoto
 
-<video src="https://github.com/user-attachments/assets/625a1ea7-3ccf-4c3f-8a3e-d2fee12c10bb" controls width="100%"></video>
+  Para acceder al sistema de gestión de personal, hacé clic en el botón superior o utilizá el siguiente enlace:
 
-<hr>
+  👉 **[https://cemetery-honor-anime-ventures.trycloudflare.com](https://cemetery-honor-anime-ventures.trycloudflare.com)**
+
+  *Dirección Provincial de Recursos Hídricos - San Salvador de Jujuy, Argentina*
+</div>
