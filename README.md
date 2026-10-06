@@ -19,6 +19,6 @@
 
 ---
 
-*¡Gracias por visitar mi perfil de GitHub!*
+
 
 </div>
