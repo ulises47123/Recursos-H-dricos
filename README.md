@@ -11,11 +11,14 @@
 
 ---
 
-<a href="https://reservations-meetup-insulation-personality.trycloudflare.com">
-  <img src="https://raw.githubusercontent.com/ulises47123/Recursos-H-dricos/gh-pages/logo.png" width="120" alt="Logo" />
-</a>
+<img src="https://raw.githubusercontent.com/ulises47123/Recursos-H-dricos/gh-pages/logo.png" width="120" alt="Logo" />
+
+<br/><br/>
+
+[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-2ea44f?style=for-the-badge)](https://reservations-meetup-insulation-personality.trycloudflare.com)
 
 ---
 
+*¡Gracias por visitar mi perfil de GitHub!*
 
 </div>
