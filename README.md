@@ -1,12 +1,14 @@
-<img src="https://raw.githubusercontent.com/ulises47123/Recursos-H-dricos/gh-pages/logo.png" width="80" align="right" alt="Logo" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ulises47123/Recursos-H-dricos/gh-pages/logo.png" width="80" alt="Logo" />
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=FFFFFF&background=333641&center=true&vCenter=true&width=500&height=200&lines=Bienvenido" alt="Bienvenido" />
   </a>
 </p>
-
-<br clear="right" />
 
 <hr>
 
