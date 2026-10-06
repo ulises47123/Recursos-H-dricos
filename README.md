@@ -1,15 +1,15 @@
-<div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=FFFFFF&background=333641&center=true&vCenter=true&width=500&height=200&lines=Bienvenido" alt="Bienvenido" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenido)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ulises47123/Recursos-H-dricos/gh-pages/logo.png" width="120" alt="Logo" />
+</p>
 
----
-
-<img src="https://raw.githubusercontent.com/ulises47123/Recursos-H-dricos/gh-pages/logo.png" width="120" alt="Logo" />
-
-<br/><br/>
-
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-2ea44f?style=for-the-badge)](https://arts-provided-amy-combo.trycloudflare.com)
-
----
-
-</div>
+<p align="center">
+  <a href="https://arts-provided-amy-combo.trycloudflare.com">
+    <img src="https://img.shields.io/badge/Ver_Proyecto-2ea44f?style=for-the-badge" alt="Ver Proyecto" />
+  </a>
+</p>
